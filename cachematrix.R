@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The following two functions take a matrix and finds its inverse,
+## using caching to speed up computations when the inverse has already been computed.
 
 ## makeCacheMatrix: This function creates a special "matrix" object 
 ## that can cache its inverse
